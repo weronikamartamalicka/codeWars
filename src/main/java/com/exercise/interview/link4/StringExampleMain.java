@@ -16,6 +16,7 @@ public class StringExampleMain {
     public static void main(String[] args) {
         StringExample stringExample = new StringExample();
 
+
         List<String> example = List.of(
                 "Line1: In this proud land we grew up strong",
                 "Line2: We were wanted all along",
